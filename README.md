@@ -85,7 +85,7 @@ Senha inválida, tente novamente!
 
 Informe a senha (4 números inteiros): 9876
 
-=============================
+
 Senha correta, parabéns, você acertou!!!!
 =========================================
 
